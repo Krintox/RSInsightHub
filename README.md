@@ -23,41 +23,27 @@ Objective:
 ## 2. Overall Description
 
 ### 2.1 Product Perspective
-Standalone system interacting with blockchain and external data.
 
 ### 2.2 Product Features
 
 #### 2.2.1 Tokenization
-- *Description:* Real estate assets represented as digital tokens.
 
 #### 2.2.2 Blockchain-based Transactions
-- *Description:* Secure transactions through blockchain smart contracts.
-
-(Continue with other features)
 
 ## 3. System Features
 
 ### 3.1 Tokenization
-- Detailed specifications.
 
 ### 3.2 Blockchain-based Transactions
-- Detailed specifications.
-
-(Continue with detailed specifications for each feature)
 
 ## 4. External Interface Requirements
 
 ### 4.1 User Interfaces
-- Description of user interfaces.
-
-(Continue with detailed specifications for external interfaces)
 
 ## 5. Other Nonfunctional Requirements
 
 ### 5.1 Performance Requirements
-- System performance expectations.
 
 ### 5.2 Security Requirements
-- Security measures.
 
 (Continue with detailed specifications for other nonfunctional requirements)
