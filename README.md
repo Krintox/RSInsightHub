@@ -23,15 +23,49 @@ Objective:
 - ML predictions for market trends.
 - NLP sentiment analysis.
 
-## 2. Overall Description
+## 2. Product Description
 
 ### 2.1 Product Perspective
+
+The Tokenized Real Estate Investment Platform is a standalone system that interacts with blockchain networks and external data sources. It provides a user interface for investors to manage their tokenized real estate assets.
 
 ### 2.2 Product Features
 
 #### 2.2.1 Tokenization
 
+- **Description:** Real estate assets are represented as digital tokens on the blockchain.
+- **Inputs:** Property details, ownership information.
+- **Outputs:** Tokenized assets on the blockchain.
+
 #### 2.2.2 Blockchain-based Transactions
+
+- **Description:** Execution of secure and transparent transactions through smart contracts on the blockchain.
+- **Inputs:** Transaction details, user authentication.
+- **Outputs:** Immutable transaction records on the blockchain.
+
+#### 2.2.3 Market Trend Prediction (ML)
+
+- **Description:** Prediction of real estate market trends using machine learning algorithms.
+- **Inputs:** Historical data, economic indicators.
+- **Outputs:** Trend forecasts, risk assessments.
+
+#### 2.2.4 Sentiment Analysis (NLP)
+
+- **Description:** Analysis of sentiment in real estate news and social media.
+- **Inputs:** Textual data sources, news articles.
+- **Outputs:** Sentiment analysis results, market perception insights.
+
+#### 2.2.5 Dynamic Risk Assessment
+
+- **Description:** Dynamic assessment and quantification of risk factors associated with specific real estate investments.
+- **Inputs:** Economic indicators, property-specific data.
+- **Outputs:** Risk quantification, risk alerts.
+
+#### 2.2.6 Natural Language Contract Processing
+
+- **Description:** NLP for processing and understanding terms and conditions in real estate contracts.
+- **Inputs:** Legal documents, contract terms.
+- **Outputs:** Extracted contract details, comprehension analysis.
 
 ## 3. System Features
 
