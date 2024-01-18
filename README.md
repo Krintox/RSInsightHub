@@ -6,7 +6,9 @@
 This document outlines the software requirements for the development of a Tokenized Real Estate Investment Platform, leveraging blockchain, machine learning (ML), and natural language processing (NLP).
 
 ### 1.2 Document Conventions
-| NLP  | Natural Language Processing |<br>
+| ABBR | NAME |
+| -------- | ------- |
+| NLP  | Natural Language Processing |
 | ML | Machine Learning |
 
 ### 1.3 Intended Audience and Suggestions
