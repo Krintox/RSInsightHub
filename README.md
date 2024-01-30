@@ -282,6 +282,22 @@ Software interfaces include Windows operating system, MongoDB database, Ethereum
   - **Database:** MongoDB, Ethereum
   - **API Integration:** Axios
 
+ ### Software Used
+
+| Software Used           | Description                                               |
+|-------------------------|-----------------------------------------------------------|
+| Ethereum Blockchain     | Decentralized blockchain platform for tokenized assets.   |
+| MongoDB                 | NoSQL database for storing non-blockchain data.            |
+| React.js                | Frontend JavaScript library for building user interfaces. |
+| Node.js                 | JavaScript runtime for server-side development.           |
+| Express.js              | Web application framework for Node.js.                    |
+| Axios                   | Promise-based HTTP client for making API requests.        |
+| Scikit-Learn            | Machine learning library for ML model development.        |
+| Natural Language Toolkit (NLTK) | Library for NLP and text processing.                |
+| TensorFlow              | Open-source machine learning framework.                   |
+| spaCy                   | NLP library for advanced text processing.                 |
+
+
 ### Communications Interfaces
 
 The project supports all types of web browsers and uses electronic forms for reservation forms, ticket booking, etc.
